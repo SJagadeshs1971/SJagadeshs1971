@@ -1,0 +1,26 @@
+
+When starting out as a web developer, it can be easy to get lost in the multitude of languages, tools and platforms that are available in today’s market. However many would argue that GitHub is an essential platform for every web developer at every level. Learning how to use it is a key tip when you’re becoming a web developer.
+
+GitHub was launched in April 2008 by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett. We’ve explained elsewhere what GitHub actually is and how to use it, but at its base, it’s a web platform, written in Ruby on Rails and Erlang, which hosts code repositories. But it also provides developers with an amazing toolset that makes it easy to follow certain coding best practices, all the while allowing you to get your name out there and show what you are capable of doing.
+
+In this article, we will explain why GitHub is such an important tool for today’s coders, and how you can go about using it to get your name out there and using it is a simple tip to becoming a successful web developer. If you what to skip ahead to one of the sections, simply use the clickable menu:
+
+GitHub makes version control easier
+Graphical interface
+Gist
+Collaboration tools
+GitHub is the place to be for open source
+github makes version control easier
+
+1. GitHub makes version control easier
+Few coding best practices are as prevalent as having some sort of Version Control for your code. Whether you are developing in Ruby, JavaScript, Python or any other language, a good Version Control workflow is essential and GitHub makes implementing that workflow easier by giving developers great tools with which to work.
+
+We’ve already explained elsewhere about the benefits of Version Control Systems in web development, and GitHub really helps out in this regard.
+
+As mentioned before, GitHub hosts Git repositories. Git is an immensely popular Version Control System, which allows developers to create a history of changes that occur over time in their code. If you’re a little confused, we can explain the differences between Git and GitHub for you.
+
+GitHub also adds several of its own functionalities to the ones offered by Git, such as:
+
+A web-based graphical interface
+A pastebin style site named Gist
+Great tools for collaborating with other developers
